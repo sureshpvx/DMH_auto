@@ -1,0 +1,38 @@
+{
+  "cookies": [],
+  "origins": [
+    {
+      "origin": "https://dmh.ssserver.in",
+      "localStorage": [
+        {
+          "name": "accessToken",
+          "value": "eyJhbGciOiJSUzI1NiIsImtpZCI6ImRldi1rZXkiLCJ0eXAiOiJKV1QifQ.eyJzdWIiOiIwMWExNWU3My01ODkzLTdlODgtYjNmYi1hMjFmZmU5ODFmODUiLCJ1bmlxdWVfbmFtZSI6InBhdEBnbWFpbC5jb20iLCJlbWFpbCI6InBhdEBnbWFpbC5jb20iLCJpc19zdXBlcl9hZG1pbiI6ImZhbHNlIiwiaHR0cDovL3NjaGVtYXMubWljcm9zb2Z0LmNvbS93cy8yMDA4LzA2L2lkZW50aXR5L2NsYWltcy9yb2xlIjoiUGF0aWVudCIsInBlcm1pc3Npb25zIjpbIlNldHRpbmcuVmlldyIsIlBhdGllbnREYXNoYm9hcmQuQ3JlYXRlIiwiUHJvZmlsZS5DcmVhdGUiLCJSZXBvcnQuQ3JlYXRlIiwiUmVwb3J0LkZ1bGxBY2Nlc3MiLCJQYXRpZW50RGFzaGJvYXJkLlZpZXciLCJQcm9maWxlLkZ1bGxBY2Nlc3MiLCJQcm9maWxlLlZpZXciLCJSZXBvcnQuVmlldyIsIlBhdGllbnREYXNoYm9hcmQuRnVsbEFjY2VzcyJdLCJuYmYiOjE3OTU2ODE2NDgsImV4cCI6MTc5NTcyNDg0OCwiaXNzIjoiRGlnaU1lZGljYWxIdWIiLCJhdWQiOiJEaWdpTWVkaWNhbEh1YkF1ZGllbmNlIn0.jqH13UquilNGABAtgRsxj_tKiUd49fs6w1bMsu8bdV61KmgqeVxfzBiz1U4bn2W5DWc9xi1IY2-H4O-ognDdrfoVcOMmvjS9hnBgmY1llPL5cCkd9fq5MiVHzz8BlCu8fAuOlmLhL9h1GR-qqcP_jbvDs0_DFu67Mng5EShqQe4ixmFBWapHDSTjk54L5vHxQFzChuTyMQLJow746CgAakBA6QO7VQx2XayNswYwgPaXgRfSSKj3aQyGaoMvUt3ZqaZyE5xTyOTCKOS9AQTFdDMdqqdJiK3_UAwkTPLVQXIqUfI0X9D2dXAG8x2Qhf_88HO-1eCeEnvDVipwCxPwew"
+        },
+        {
+          "name": "access",
+          "value": "{\"roles\":[\"Patient\"],\"permissions\":[\"Profile.FullAccess\",\"Profile.Create\",\"Profile.View\",\"Setting.View\",\"Report.FullAccess\",\"Report.Create\",\"Report.View\",\"PatientDashboard.FullAccess\",\"PatientDashboard.Create\",\"PatientDashboard.View\"]}"
+        },
+        {
+          "name": "refreshToken",
+          "value": "sjrdJYEkQEX9onwi9Q94EoqNZmFGZ7qNFe63bYoW30Vwe0dd6RkG2QBQ4/swGTc9vWu4Ffjeb6HF0kNXXeExLA=="
+        },
+        {
+          "name": "refreshTokenExpiry",
+          "value": "2026-12-26T08:27:28.7287164Z"
+        },
+        {
+          "name": "login",
+          "value": "{\"tokens\":{\"accessToken\":\"eyJhbGciOiJSUzI1NiIsImtpZCI6ImRldi1rZXkiLCJ0eXAiOiJKV1QifQ.eyJzdWIiOiIwMWExNWU3My01ODkzLTdlODgtYjNmYi1hMjFmZmU5ODFmODUiLCJ1bmlxdWVfbmFtZSI6InBhdEBnbWFpbC5jb20iLCJlbWFpbCI6InBhdEBnbWFpbC5jb20iLCJpc19zdXBlcl9hZG1pbiI6ImZhbHNlIiwiaHR0cDovL3NjaGVtYXMubWljcm9zb2Z0LmNvbS93cy8yMDA4LzA2L2lkZW50aXR5L2NsYWltcy9yb2xlIjoiUGF0aWVudCIsInBlcm1pc3Npb25zIjpbIlNldHRpbmcuVmlldyIsIlBhdGllbnREYXNoYm9hcmQuQ3JlYXRlIiwiUHJvZmlsZS5DcmVhdGUiLCJSZXBvcnQuQ3JlYXRlIiwiUmVwb3J0LkZ1bGxBY2Nlc3MiLCJQYXRpZW50RGFzaGJvYXJkLlZpZXciLCJQcm9maWxlLkZ1bGxBY2Nlc3MiLCJQcm9maWxlLlZpZXciLCJSZXBvcnQuVmlldyIsIlBhdGllbnREYXNoYm9hcmQuRnVsbEFjY2VzcyJdLCJuYmYiOjE3OTU2ODE2NDgsImV4cCI6MTc5NTcyNDg0OCwiaXNzIjoiRGlnaU1lZGljYWxIdWIiLCJhdWQiOiJEaWdpTWVkaWNhbEh1YkF1ZGllbmNlIn0.jqH13UquilNGABAtgRsxj_tKiUd49fs6w1bMsu8bdV61KmgqeVxfzBiz1U4bn2W5DWc9xi1IY2-H4O-ognDdrfoVcOMmvjS9hnBgmY1llPL5cCkd9fq5MiVHzz8BlCu8fAuOlmLhL9h1GR-qqcP_jbvDs0_DFu67Mng5EShqQe4ixmFBWapHDSTjk54L5vHxQFzChuTyMQLJow746CgAakBA6QO7VQx2XayNswYwgPaXgRfSSKj3aQyGaoMvUt3ZqaZyE5xTyOTCKOS9AQTFdDMdqqdJiK3_UAwkTPLVQXIqUfI0X9D2dXAG8x2Qhf_88HO-1eCeEnvDVipwCxPwew\",\"expiresAtUtc\":\"2026-11-26T20:27:28.7287164Z\",\"refreshToken\":\"sjrdJYEkQEX9onwi9Q94EoqNZmFGZ7qNFe63bYoW30Vwe0dd6RkG2QBQ4/swGTc9vWu4Ffjeb6HF0kNXXeExLA==\",\"refreshExpiresAtUtc\":\"2026-12-26T08:27:28.7287164Z\",\"userEmail\":\"pat@gmail.com\",\"userId\":\"01a15e73-5893-7e88-b3fb-a21ffe981f85\",\"role\":\"Patient\",\"tenantName\":null,\"tenantType\":null,\"roleIds\":[\"2fb58feb-e39a-4001-b849-dfe2520594fb\"]},\"currentUser\":{\"id\":\"01a15e73-5893-7e88-b3fb-a21ffe981f85\",\"userName\":\"pat@gmail.com\",\"email\":\"pat@gmail.com\",\"firstName\":\"Testpatient\",\"lastName\":\"Name\",\"phoneNumber\":\"9000000004\",\"tenantId\":null,\"picture\":\"https://dmhapi.ssserver.in/uploads/BlackTe_20261022052306.jpg\",\"roles\":[\"Patient\"]},\"patient\":{\"id\":\"274d1486-1836-4a29-ae89-c106087d5953\",\"email\":\"pat@gmail.com\",\"name\":\"Testpatient\",\"mobileNumber\":\"9000000004\"}}"
+        },
+        {
+          "name": "accessTokenExpiry",
+          "value": "2026-11-26T20:27:28.7287164Z"
+        },
+        {
+          "name": "currentUser",
+          "value": "{\"id\":\"01a15e73-5893-7e88-b3fb-a21ffe981f85\",\"userName\":\"pat@gmail.com\",\"email\":\"pat@gmail.com\",\"firstName\":\"Testpatient\",\"lastName\":\"Name\",\"phoneNumber\":\"9000000004\",\"tenantId\":null,\"picture\":\"https://dmhapi.ssserver.in/uploads/BlackTe_20261022052306.jpg\",\"roles\":[\"Patient\"]}"
+        }
+      ]
+    }
+  ]
+}
